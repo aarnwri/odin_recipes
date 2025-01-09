@@ -1,0 +1,20 @@
+/* style.css */
+
+body {
+  background-color: tan;
+  color: black;
+  font-size: 24px;
+  font-family: Courier New, Monospace;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.recipe_list {
+  line-height: 1.5;
+}
+
+a.recipe {
+  text-decoration: none;
+}
